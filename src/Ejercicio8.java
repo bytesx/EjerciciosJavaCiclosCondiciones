@@ -3,11 +3,11 @@ public class Ejercicio8 {
             // Ejercicio 8 - Java - Edgar Vazquez , Multiplicar 2 * hasta 4570
 
 
-            for (int multiplicador = 2, x = 2; x < 4570;) {
-             int resultado = x * multiplicador;
-             System.out.println(resultado);
-             x+=2;
-         }
+            int resultado = 0;
+            for (int multiplicador = 2, x = 2; x <= 4568 && resultado <= 4568; x++) {
+                resultado = x * multiplicador;
+                System.out.println(resultado);
+            }
 
         }
 }

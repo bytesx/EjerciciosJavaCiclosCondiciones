@@ -1,6 +1,6 @@
 public class Ejercicio6 {
     public static void main(String[] args) {
-        // Ejercio6 - Java - Edgar Vazquez - Serie Fibonacci
+        // Ejercicio6 - Java - Edgar Vazquez - Serie Fibonacci
 
         //Declaracion de Variables
         int fib, num1 = 0, num2 = 1, num3, count = 11;

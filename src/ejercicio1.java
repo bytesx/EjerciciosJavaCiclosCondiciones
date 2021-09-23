@@ -3,7 +3,7 @@ public class ejercicio1 {
         // Ejercio 1 - Java - Edgar Vazquez - Promedio de Calificaciones
 
         //Declarion de Variables
-        int promedio = 60;
+        int promedio = 70;
 
         //Condiciones para verificar Promedio
         if (promedio >= 70){

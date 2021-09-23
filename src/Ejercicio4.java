@@ -11,6 +11,7 @@ public class Ejercicio4 {
         System.out.println("Ingrese el numero de ramitas");
         arbolRama = ingresa.nextInt();
 
+        // Funcion para Iterar para crear Arbol
         for(int i = 0; i < arbolRama; i++) {
             for( int ramita = 0; ramita <= i; ramita++) {
                 System.out.print("* ");

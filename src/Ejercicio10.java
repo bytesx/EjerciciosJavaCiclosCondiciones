@@ -7,11 +7,13 @@ public class Ejercicio10 {
         // Declarando Variables
         float funcionN = 1, resultado =1, e = 10;
 
+        // Ciclo FOR para Calcular la Constante de E
         for (int i = 1; i <= e; i++) {
             funcionN =(1 * i) * funcionN;
             resultado = 1/funcionN + resultado;
 
         }
+            // Resultado
             System.out.println("La constante de e es: " + resultado);
     }
 }
