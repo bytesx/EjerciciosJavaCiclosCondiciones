@@ -2,7 +2,9 @@ import java.util.Scanner;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
+        // Ejercicio 4 - Java - Edgar Vazquez - Imprimir Arbol de asteristicos
 
+        //Variables y solicitar numero de ramas
         int arbolRama =0;
         Scanner ingresa = new Scanner(System.in);
 

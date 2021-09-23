@@ -1,8 +1,8 @@
 public class Ejercicio5 {
     public static void main(String[] args)  {
-        // Ejercicio 5 - Edgar Vazquez - Piramide
-        // Usare Ciclo FOR
+        // Ejercicio 5 -Java - Edgar Vazquez - Piramide de Asteristicos
 
+        // Uso de Cliclo For para generar piramide
         for (int ladrillo1 = 0; ladrillo1 < 10; ladrillo1++) {
             for (int bloque1 = 0; bloque1 < 10 - ladrillo1; bloque1++)
                 System.out.print(" ");
